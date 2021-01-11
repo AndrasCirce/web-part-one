@@ -1,0 +1,25 @@
+<?xml version ="1.0" encoding="ISO-8859-1" ?>
+<rss version ="0.91">
+    <channel>
+        <title>Poeta Frank Silverstone</title>
+        <link>http://www.frank-silverstone.org</link>
+        <description>Servicios para mis lectores</description>
+        <language>es</language>
+        <copyright>Frank Silverstone</copyright>
+        <item>
+            <title> Servicio para mis amigos</title>
+            <description>Ultimos poemas...</description>
+            <link>http://www.frank-silverstone.org/poemas</link>
+        </item>
+        <item>
+            <title> Nuevos Poemas</title>
+            <description>Volumen 3</description>
+            <link>http://www.frank-silverstone.org/volumen3</link>
+        </item>
+        <item>
+            <title> Mi familia</title>
+            <description>Mi familia es...</description>
+            <link>http://www.frank-silverstone.org/familia</link>
+        </item>
+    </channel>
+</rss>

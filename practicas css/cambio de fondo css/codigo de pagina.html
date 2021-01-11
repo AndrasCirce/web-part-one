@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Cambio de fondo</title>
+    <link rel="stylesheet" href="" id="lnkCSS">
+    <script type="text/javascript">
+      
+        var slcSCC;
+        var lnkCSS;
+        function slcCSS_onChange(){
+            //lnkCSS.href = slcSCC.options[slcSCC.selectedIndex].value;
+            document.getElementById("lnkCSS").setAttribute( "href", slcSCC.options[slcSCC.selectedIndex].value);
+        }
+
+        function cssExample_onLoad(){
+            slcSCC = document.getElementById("slcCSS");
+            lnkSCC = document.getElementById("lnkCSS");
+            
+        }
+        window.onload = cssExample_onLoad;
+         
+    </script>
+</head>
+<body>
+    <form method="POST" name="frmCSS">
+        <h1>Uso de CSS</h1>
+        <br><br><br>
+        <div class="lblNormal">
+            Tema/Estilo/CSS:
+            <select class="cmbNormal" name="slcSCC" id="slcCSS" onchange="slcCSS_onChange()">
+                <option id="styleNone" value="">Ninguno</option>
+                <option id="styleDeathNote" value="CSS/styleDeathNote.css">Esferas de Colores</option>
+                <option id="styleEvangelion" value="CSS/styleEvangelion.css">Nostalgia</option>
+                <option id="styleFMA" value="CSS/styleFMA.css">Paisaje Rio Alchemist</option>
+                <option id="styleSAintSeiya" value="CSS/styleSaintSeiya.css">Nubes</option>
+            </select>
+        </div>
+        <br><br><br><br>
+        <div class="lblNormal">
+            Grupos Favoritos:
+        </div>
+        <ol>
+            <li class="lstElemento">Queens of The Stone Age</li>
+            <li class="lstElemento">Grimes</li>
+            <li class="lstElemento">UNKLE</li>
+            <li class="lstElemento">The Distillers</li>
+            <li class="lstElemento">Royal Blood</li>
+            <li class="lstElemento">Blur</li>
+        </ol>
+    </form>
+</body>
+</html>

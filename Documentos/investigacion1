@@ -1,0 +1,37 @@
+JSF -  JavaServer Faces es un framework de interfaz de componentes 
+	de usuarios del lado del servidor para las aplicaciones web basadas en
+	la tecnología Java. 
+
+Richfaces - Richfaces es una biblioteca de código abierto basada en Java
+	    que permite crear aplicaciones web con Ajax. Sirve para meter
+	    aplicaciones de ajax en una pagina creada con jsf
+
+servidor de aplicaciones - Usualmente se trata de un dispositivo de software que 
+			   proporciona servicios de aplicación a las computadoras 
+			   cliente.
+
+EJB -  son una de las interfaces de programación de aplicaciones (API) que forman 
+	parte del estándar de construcción de aplicaciones empresariales 
+	J2EE (ahora JEE) de Oracle Corporation
+
+POJO - siglas que incentiban  uso de clases simples y que no dependen de un 
+	framework en especial.
+	
+
+java persitence api - Es una herrameinta del lenguaje de programación Java que maneja
+			 datos relacionales en aplicaciones usando la Plataforma
+			 Java en sus ediciones Standard (Java SE) y 
+			 Enterprise (Java EE)
+
+framework hibernet - mapeo objeto-relacional agiliza la relación entre la 
+			aplicación y la base de datos.
+
+			facilita el crud de objetos mediante sus beans
+
+jboss seam - Combinacion de los 2 frameworks Enterprise JavaBeans EJB3 y 
+		JavaServerFaces JSF. Se puede acceder a cualquier componente EJB 
+		desde la capa de presentación refiriéndote a él mediante su nombre
+	`	de componente seam
+
+		conceptos
+		creacion de app web mediante gestor de bd

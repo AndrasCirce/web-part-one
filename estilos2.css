@@ -1,0 +1,26 @@
+h1 {color: red;}
+h2 {color: blue;}
+p {color: black;}
+
+h1, h2, h3 {
+    color: midnightblue;
+    font-weight: normal;
+    font-family: 'Franklin Gothic Medium';
+}
+
+*{ /* Selecciona todo */
+    font-family:Arial, Arial, sans-seriff;
+}
+
+
+.promise h1{background-color: maroon;}
+.promise{background-color: gray; color: black;}
+
+.singAbout h1{background-color: black; color:ivory;}
+.singAbout{background-color: darkslategrey; color: ivory;}
+
+.thirst h1{background-color: darkslategrey;}
+.thirst span{color: darkslategrey;}
+.thirst{background-color: darkred; color: black;}
+
+#indice a{background-color: blueviolet; color: black;}

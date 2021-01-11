@@ -1,0 +1,70 @@
+.Fecha p {
+    padding-left: 1350px;
+
+  }
+  #divEncabezado {
+    background-color:darkgray;
+    width:870px;
+    margin: 0 auto;
+  }
+  #divContenido {
+    text-align: center;
+  }
+  .formulario {
+    padding: 30px;
+    margin-bottom: 30px;
+    margin: 0 auto;
+    width: 40%;
+  }
+  .seccion1txt1{
+    position: absolute;
+    top:340px;
+    display: inline-block;
+  }
+  .seccion1txt2{
+    position: absolute;
+    top:420px;
+    display: inline-block;
+  }
+  .cmb {
+    margin: 120px;
+    width:38px;
+    border: 3px solid #555;
+    position: absolute;
+    top:300px;    
+  }
+ .seccion1 hr{
+    position: absolute;
+    top:420px;
+    display: inline-block;
+  }
+ .seccion1 p {
+    position: absolute;
+    top:425px;
+    display: inline-block;
+  }
+.btn {
+    position: absolute;
+    top:350px;
+    ;
+    
+}
+.catalogo select {
+  padding: 1rem;
+  position: absolute;
+  left: 650px;
+  top: 500px;
+}
+
+.catalogo p {
+  position: absolute;
+  left: 690px;
+  top: 470px;
+}
+
+.titulo {
+    font-weight: 300;
+    color: #B8711B;
+    text-align: center;
+    margin: 60px 0 30px 0;
+}

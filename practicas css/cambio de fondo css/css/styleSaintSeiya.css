@@ -1,0 +1,31 @@
+body{
+ background-image:url("../wallpaper/glitch_art_lines_pixels_121670_4096x2304.jpg");
+}
+
+h1{
+ text-align:center;
+}
+
+#blink {
+ font-family:"Brush Script MT";
+ color:dodgerblue;
+}
+
+.lblNormal {
+ font-weight:200;
+ color:mediumturquoise;
+ font-family:"Brush Script MT";
+ font-size:16px;
+}
+
+.cmbNormal {
+ font-size:16;
+ color:cadetblue;
+ font-family:"Brush Script MT";
+}
+
+.lstElemento {
+ color:#FFFFFF;
+ font-size:10px;
+ font-family:"Brush Script MT";
+}

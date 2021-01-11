@@ -1,0 +1,32 @@
+body {
+ background-image:url("../wallpaper/burningman_aug31.jpg");
+} 
+
+h1{
+ text-align:right;
+}
+
+#blink {
+ font-family:"Matura MT Script Capitals";
+ color:#330066;
+}
+
+.lblNormal {
+ font-weight:300;
+ color:#330066;
+ font-family:"Matura MT Script Capitals";
+ font-size:12px;
+}
+
+.cmbNormal {
+ font-size:18;
+ color:#FF0000;
+ font-family:"Matura MT Script Capitals";
+}
+
+.lstElemento {
+ color:#CC0000;
+ font-size:16px;
+ font-family:"Matura MT Script Capitals";
+ text-align:center;
+}

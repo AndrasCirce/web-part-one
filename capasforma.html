@@ -1,0 +1,57 @@
+<html>
+	<head>
+	   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	   <title>Capas Forma</title>
+	   <style type="text/css">          
+
+		.circulo {
+			position: absolute;
+    		top:500px;
+			left:1000px;
+			background-color: red;
+            padding: 5px;
+            width: 300px;
+            -webkit-border-radius: 300px;
+            -moz-border-radius: 300px;
+            -webkit-box-shadow: 1px 1px 10px #484848;
+            border-radius: 300px; 
+		}
+
+		.circulo img {
+			-webkit-border-radius: 300px;
+            -moz-border-radius: 300px;
+            border-radius: 300px; 
+		}
+
+		
+		.clipClass {
+			-webkit-clip-path: polygon(50% 100%, 0% 0%, 100% 0);
+			background-color: yellow;
+			-webkit-border-image: 300px;
+			-moz-border-image: 300px;
+			position: absolute;
+			top:20px;
+			left:500px;
+		}
+
+		
+
+		</style>
+	</head>
+	<body bgcolor="black">
+	   <h1></h1>
+	   <div id ="capa" style="position: absolute; width: 200px; height: 690px; z-index: 3; visibility: visible;
+			background-color: #0099CC;  background-image: url(); 
+			 clip:rect(1 auto auto 3);">
+			Andres Jacinto Moreno
+			<img src="logo.JPG" width="200" height="200">
+		</div>
+		<div class ="circulo" align='center' style="background-image: url();">
+			<img src="yo.JPG" width="300" height="300">
+		</div>
+		<div class ="triangulo" >
+			<img src="sia.jpg" width="480" height="480" class="clipClass">
+			AAAAAA
+		</div>
+	</body>
+</html>

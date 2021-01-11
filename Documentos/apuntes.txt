@@ -1,0 +1,45 @@
+cual ha sido la evolucion de las aplicaciones web?
+	arpa -> arpanet 
+menciona las versiones de la web, caracteristicas y creador
+	Tim Berners-Lee
+	
+V1 1991
+	email
+	transferencia archivos ftp
+	buscadores
+	www
+	hipertexto (html)
+	protocolos estandares
+	pocos creadores de contenido
+	paginas estaticas sin actualizar ni cooperar
+
+
+V2
+	comunidades de usuarios
+	mejora de aplicaciones wbe
+	sistemas de gestion de contenido de db en web
+	hay dinamismo en paginas cgi evoluciona a ajax, js
+	retroalimentacion activa de usuarios
+	xhtml css - presentacion de ddatos
+	document objrct model - manipular archivos
+	xml - datos servidor web
+	xmlhttprequest - recuperacion de datos asincrona
+	js - obtencion de recursos de manera dinamica y  
+	diferencias de web 1.0 y 2.0
+V1
+solo lectura, impersonal, desarrollo hermetico
+V2
+comunidad involucrada, estandares, DIY, desarrollo colectivo  
+diferencias entre web semantica y sintactica
+	web semantica
+		creación de tecnologías para publicar datos legibles por aplicaciones informáticas
+	web sintactica
+		cumulos muy grande de informacion sin interpretación del significado
+que es un metadato
+	grupo de informacion que describen datos informaticos de objetos
+que son los url
+	es un identificador de recursos uniforme cuyos recursos referidos pueden cambiar
+ejemplifica
+
+
+recurso ---------------> propiedad -------------> valor 

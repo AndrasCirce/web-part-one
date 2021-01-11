@@ -1,0 +1,42 @@
+-------------------------------arquitectura-------------------------------------
+arquitectura de 3 funciona bajo modelo cliente servidor
+estaciones que demandan hipertextos a servidores
+usa el lenguaje marcado html
+aplicaciones para acceso a la informacion almacenada en estandares
+
+-------------------------------herramientas-------------------------------------
+
+CGI - comunicacion entre servidor y app externa, el serv http de tolerarla
+fastcgi- crea un proceso persistente por cada programa cgi
+paginas dinamicas de servidor - trozos de logica en html (php,jsp,asp)
+java - ???
+jdbc javadatabase connectivity - interfaz de java con api para desarrollar db
+servlets - programa de java capaz de crear contenido web dinamico
+java server pages - entorno web para crear contenido web dinamico
+extensible markup language - estandar de mecanismo independiente para compartir datos
+extensible stylesheet language - formato estandar de xml
+applets java - programa que corre en contexto de otro programa (navegador)
+
+-------------------------------planificacion-------------------------------------
+
+formacion, coordinacion y accion de equipo de trabajo
+	funciones
+		comunicar desafios asumidos
+		tener copromiso del cliente con el proyecto
+		recibir ideas de todos respecto al proyecto
+	integrantes
+		director intitucional
+		director proyecto
+		gestores de contenido
+		validadores de contenido
+		validadores tecnicos
+
+levantamiento de requerimientos
+	definicion de objetivos a lograr, se debe redactar un documento
+financiamiento de proyecto
+	lo mas caro no siempre es lo mejor
+	costo de implementacion
+	costo de desarrollo
+	costo de manutencion y actualizacion
+	fuentes internas de financiamiento
+	fuentes externas de financiamiento

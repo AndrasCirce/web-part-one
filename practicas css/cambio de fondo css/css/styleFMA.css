@@ -1,0 +1,31 @@
+body{
+ background-image:url("../wallpaper/images.jpg");
+}
+
+h1{
+ text-align:center;
+}
+
+#blink {
+ font-family:"Brush Script MT";
+ color:darkcyan;
+}
+
+.lblNormal {
+ font-weight:200;
+ color:dimgray;
+ font-family:"Brush Script MT";
+ font-size:16px;
+}
+
+.cmbNormal {
+ font-size:16;
+ color:#660033;
+ font-family:"Brush Script MT";
+}
+
+.lstElemento {
+ color:#FFFFFF;
+ font-size:10px;
+ font-family:"Brush Script MT";
+}
